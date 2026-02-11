@@ -9,6 +9,8 @@ import { StatsCard } from '../components/StatsCard';
 import { Button } from '../components/ui/button';
 import { Input } from '../components/ui/input';
 import { toast } from 'sonner';
+import { Link } from 'react-router';
+
 
 export function ProjectsPage() {
   const { projects, createProject, updateProject, deleteProject, tasks } = useData();

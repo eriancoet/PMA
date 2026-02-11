@@ -101,8 +101,6 @@ export function ProjectCard({ project, onEdit, onDelete }: ProjectCardProps) {
   </span>
 </div>
 
-  
-
     </motion.div>
   );
 }
