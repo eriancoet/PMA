@@ -59,7 +59,7 @@ export function LoginPage() {
             <CheckSquare className="h-8 w-8 text-white" />
           </div>
         </motion.div>
-        <h1 className="text-3xl font-bold text-center mb-2">TaskFlow</h1>
+        <h1 className="text-3xl font-bold text-center mb-2">PMA</h1>
         <p className="text-center text-gray-600 mb-8">
           Manage your projects and tasks efficiently
         </p>

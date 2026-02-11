@@ -1,4 +1,4 @@
-# TaskFlow
+# PMA
 
 A modern React application built with **TypeScript**.
 This project demonstrates clean component architecture, type safety, and scalable frontend structure.
@@ -19,13 +19,13 @@ This project demonstrates clean component architecture, type safety, and scalabl
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/taskflow.git
+git clone https://github.com/your-username/pma.git
 ```
 
 Navigate into the project:
 
 ```bash
-cd taskflow
+cd pma
 ```
 
 Install dependencies:

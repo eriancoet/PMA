@@ -25,8 +25,9 @@ type StoredData = {
 const EMPTY: StoredData = { projects: [], tasks: [] };
 
 function makeStorageKey(userId: string) {
-  return `taskflow:data:${userId}`;
+  return `pma:data:${userId}`;
 }
+
 
 function safeLoad(key: string): StoredData {
   const raw = localStorage.getItem(key);

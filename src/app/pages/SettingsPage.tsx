@@ -204,10 +204,10 @@ export function SettingsPage() {
         {/* App Info */}
         <div className="bg-gray-50 rounded-lg p-6 text-center">
           <p className="text-sm text-gray-600">
-            TaskFlow v1.0.0 - A simple project management app
+            PMA v1.0.0 - A simple project management app
           </p>
           <p className="text-xs text-gray-500 mt-1">
-            © 2026 TaskFlow. All data is stored locally in your browser.
+            © 2026 PMA. All data is stored locally in your browser.
           </p>
         </div>
       </div>

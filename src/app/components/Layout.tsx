@@ -22,7 +22,7 @@ export function Layout() {
               <div className="bg-blue-600 p-2 rounded-lg">
                 <CheckSquare className="h-5 w-5 text-white" />
               </div>
-              <span className="text-xl font-bold">TaskFlow</span>
+              <span className="text-xl font-bold">PMA</span>
             </Link>
 
             {/* Desktop Navigation */}
